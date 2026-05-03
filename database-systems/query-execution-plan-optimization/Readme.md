@@ -31,4 +31,4 @@ The project included:
 - Diagramming tool
 
 ## Video Demonstration
-Video available upon request.
+https://youtu.be/JdS5Wuo2i0Y
