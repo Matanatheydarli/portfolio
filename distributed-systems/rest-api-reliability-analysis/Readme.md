@@ -46,10 +46,7 @@ The service returned successful HTTP 200 responses less than half of the time. T
 - CSV
 - Microsoft Excel
 - GitHub
-- Video presentation
 
-## Report
-[View Report](report.pdf)
 
 ## Video Demonstration
-[Watch Video](https://www.youtube.com/watch?v=39QnVrCDIPc)
+https://youtu.be/39QnVrCDIPc
